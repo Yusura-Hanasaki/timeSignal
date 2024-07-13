@@ -12,7 +12,7 @@ mk = Misskey("misskirara.net", i="***")
 
 # 関数
 def timeSignal02():
-    mk.notes_create(text="> 「生活リズム 規則的に」" + "\n" + "「夜更かしお寝坊 だめゼッタイ」")
+    mk.notes_create(text="> 「生活リズム 規則的に」" + "\n" + "> 「夜更かしお寝坊 だめゼッタイ」")
 def timeSignal08():
     mk.notes_create(text=":ohayougozaimasu_:")
 def timeSignal18():
